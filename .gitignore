@@ -1,0 +1,6 @@
+.env
+*.env
+!.env.example
+output/
+__pycache__/
+*.mp4
